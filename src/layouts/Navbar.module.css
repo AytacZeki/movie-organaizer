@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.navbar {
+    height: auto;
+    overflow: auto;
+    margin: 0;
+    padding: 10px 20px;
+}
+
+.icon {
+    text-decoration: none;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Indie Flower', cursive;
+    color:darkred;
+}
+#contain {
+    width: 80%;
+    margin: 0 auto;
+}
